@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dict-webdev101": {
+      "hosting": {
+        "myapp": [
+          "dict-webdev101"
+        ]
+      }
+    }
+  }
+}
